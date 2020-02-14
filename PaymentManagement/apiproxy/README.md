@@ -57,7 +57,7 @@ This is a sample representation of the TMForum Payments API using Swagger
 
 <!-- dependecies input end --><!-- dependecies input end -->
 
-**Created at:** 2020-02-14T07:02:31Z
+**Created at:** 2020-02-14T07:12:56Z
 
 <!-- update start --><!-- update end -->
 
